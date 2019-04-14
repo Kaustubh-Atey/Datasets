@@ -1,2 +1,2 @@
 # Datasets
-Datasets that I use for Deep learning
+Datasets that I have used in my projects.
