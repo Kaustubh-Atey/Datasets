@@ -1,2 +1,2 @@
 # Datasets
-Datasets that I have used in my projects.
+Some datasets that I have used in my projects.
